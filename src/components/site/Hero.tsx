@@ -126,7 +126,7 @@ export function Hero() {
             </div>
           </div>
 
-          <div className="mt-4 rounded-2xl border border-border bg-card p-5 shadow-card sm:absolute sm:-bottom-8 sm:-left-6 sm:mt-0 sm:w-[19rem]">
+          <div className="mt-4 rounded-2xl border border-border bg-card p-5 shadow-card sm:mt-5 sm:ml-auto sm:w-[21rem] lg:-ml-14">
             <div className="flex items-center justify-between">
               <span className="eyebrow text-muted-foreground">Clinic calendar</span>
               <CalendarCheck
